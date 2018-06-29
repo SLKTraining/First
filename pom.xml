@@ -22,7 +22,6 @@
 
 	<properties>
 		<start-class>com.khoubyari.example.Application</start-class>
-		<!-- Comment byAbhishek -->
 	</properties>
 
 	<dependencies>
@@ -41,30 +40,14 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-			<!-- web development, including Tomcat and spring-webmvc -->
-		<dependency><!--Nitin-->
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
+
 		<!-- Spring security -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-		</dependency>
-<<<<<<< HEAD
-		<dependency>	<!-- duplicated by Nitin-->
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-security</artifactId>
+<!-- artifactId>spring-boot-starter-security</artifactId -->
 		</dependency>
 
-=======
-		<!-- Additional dummi changes added -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-security</artifactId>
-		</dependency>
-		
->>>>>>> 08d2640a62daec5612725d7c3185beb49296341d
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
@@ -76,8 +59,13 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
-
+<!-- Copied Code-->
 		<dependency>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+			<version>1.4.193</version>
+		</dependency>
+<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
 			<version>1.4.193</version>
