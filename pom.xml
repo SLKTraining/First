@@ -35,7 +35,7 @@
 =======
 <dependency><!-- added new-->
 =======
-		<dependency> <!--duplicated by         Abhishek -->
+		<dependency> <!--duplicated by              Abhishekdd -->
 >>>>>>> 37e5072d57d26ef3584325bd6ae9d5e453ab8e8c
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
