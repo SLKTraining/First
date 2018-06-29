@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- shankar  -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-
+<!-- SLK was here 1 -->
+<!-- SLK was here 2 -->
+<!-- SLK was here 23-->
 	<groupId>com.khoubyari</groupId>
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
@@ -25,7 +29,15 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
 		</dependency>
+<<<<<<< HEAD
         <dependency><!--duplicates by ravi>
+=======
+<dependency><!-- added new-->
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-actuator</artifactId>
+		</dependency>
+
+>>>>>>> 535a3cb5dbf96168dd871090ab28ee37688a9869
 		<!-- web development, including Tomcat and spring-webmvc -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -33,10 +45,13 @@
 		</dependency>
 
 		<!-- Spring security -->
+<!-- Kishore message -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
+
+
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -99,8 +114,7 @@
 			<artifactId>hsqldb</artifactId>
 			<scope>runtime</scope>
 		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api -->
+                <!-- https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api -->
 		<dependency>
 			<groupId>javax.xml.bind</groupId>
 			<artifactId>jaxb-api</artifactId>
