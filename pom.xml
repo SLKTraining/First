@@ -31,14 +31,17 @@
 			<artifactId>spring-boot-actuator</artifactId>
 		</dependency>
 <dependency><!-- added new-->
+<dependency><!-- added new-->
 <!-- del new-->
 <!-- del new-->
 <!-- del new-->
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-actuator</artifactId>
-		</dependency>
 
-		<!-- web development, including Tomcat and spring-webmvc -->
+		<!-- web development,     Including Tomcat and spring-webmvc -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<!-- web development,     Including Tomcat and spring-webmvc -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
@@ -94,7 +97,7 @@
 			<artifactId>jackson-core-asl</artifactId>
 			<version>1.9.13</version>
 		</dependency>
-
+<!-- MADE CHANGES HERE -->
 		<!-- attribute level json comparisons -->
 		<dependency>
 			<groupId>com.jayway.jsonpath</groupId>
@@ -119,7 +122,7 @@
 			<artifactId>springfox-swagger-ui</artifactId>
 			<version>2.5.0</version>
 		</dependency>
-
+<!-- ADDED NEW -->
 		<dependency>
 			<groupId>org.hsqldb</groupId>
 			<artifactId>hsqldb</artifactId>
