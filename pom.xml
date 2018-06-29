@@ -22,6 +22,7 @@
 
 	<properties>
 		<start-class>com.khoubyari.example.Application</start-class>
+		<!-- Comment byAbhishek -->
 	</properties>
 
 	<dependencies>
