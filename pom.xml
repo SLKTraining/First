@@ -4,6 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 <!-- SLK was here 1 -->
 <!-- SLK was here 2 -->
+<!-- SLK was here 23-->
 	<groupId>com.khoubyari</groupId>
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
