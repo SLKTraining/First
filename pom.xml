@@ -4,9 +4,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-<!-- SLK was here 1 -->
-<!-- SLK was here 2 -->
-<!-- SLK was here 23-->
+
 	<groupId>com.khoubyari</groupId>
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
@@ -29,7 +27,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
 		</dependency>
-		<dependency> <!--duplicated by abhishek -->
+<dependency><!-- added new-->
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
 		</dependency>
@@ -41,13 +39,10 @@
 		</dependency>
 
 		<!-- Spring security -->
-<!-- Kishore message -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
-
-
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
