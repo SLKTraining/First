@@ -11,7 +11,8 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.9.RELEASE</version>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.1.9.RELEASE</version>
 	</parent> 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -23,6 +24,8 @@
 	<properties>
 		<start-class>com.khoubyari.example.Application</start-class>
 		<!-- Comment byAbhishek -->
+			<!-- Comment byAbhishek -->
+				<!-- Comment byAbhishek -->
 	</properties>
 
 	<dependencies>
@@ -31,15 +34,35 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
 		</dependency>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+		
+=======
+<dependency><!-- added new--><!-- added new--><!-- added new--><!-- added new-->
+=======
+		<dependency> <!--duplicated by              Abhishekdd -->
+>>>>>>> 37e5072d57d26ef3584325bd6ae9d5e453ab8e8c
+=======
 <dependency><!-- added new-->
+<<<<<<< .merge_file_a07616
 <!-- del new-->
 <!-- del new-->
 <!-- del new-->
+=======
+>>>>>>> 08d2640a62daec5612725d7c3185beb49296341d
+>>>>>>> .merge_file_a02636
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
 		</dependency>
+>>>>>>> 1e9a29d7f1279482e0ce405b17a3e6bdf68aa043
 
-		<!-- web development, including Tomcat and spring-webmvc -->
+		<!-- web development,     Including Tomcat and spring-webmvc -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<!-- web development,     Including Tomcat and spring-webmvc -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
