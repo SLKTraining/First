@@ -101,5 +101,6 @@ public class HotelController extends AbstractRestHandler {
 	public void testRet(){
 		String hello;
 		
-		hello = "Hi..";
+		hello = "Hi.. Sudarshan.. from new branch SUDFOR18";
+	}
 }

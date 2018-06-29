@@ -1,9 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-<!-- SLK was here 1 -->
-<!-- SLK was here 2 -->
-<!-- SLK was here 23-->
+
 	<groupId>com.khoubyari</groupId>
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
@@ -24,6 +22,7 @@
 
 	<properties>
 		<start-class>com.khoubyari.example.Application</start-class>
+		<!-- Comment byAbhishek -->
 	</properties>
 
 	<dependencies>
@@ -34,12 +33,19 @@
 		</dependency>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <dependency><!--duplicates by ravi>
 =======
 <dependency><!-- added new-->
 =======
 		<dependency> <!--duplicated by abhishek -->
 >>>>>>> 3906e19a34efcd2f45c63ce05b04c9c2c3e7dce4
+=======
+<dependency><!-- added new-->
+<!-- del new-->
+<!-- del new-->
+<!-- del new-->
+>>>>>>> origin
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
 		</dependency>
@@ -52,14 +58,16 @@
 		</dependency>
 
 		<!-- Spring security -->
-<!-- Kishore message -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
-
-
-
+		<!-- Additional dummi changes added -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
