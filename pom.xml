@@ -1,12 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!-- shankar  -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-<!-- SLK was here 1 -->
-<!-- SLK was here 2 -->
-<!-- SLK was here 23-->
+
 	<groupId>com.khoubyari</groupId>
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
@@ -17,11 +12,17 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
-	</parent>
+	</parent> 
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.9.RELEASE</version>
+	</parent> 
+	</parent> 
 
 	<properties>
 		<start-class>com.khoubyari.example.Application</start-class>
-				<start-class>com.khoubyari.example.Application</start-class>		<start-class>com.khoubyari.example.Application</start-class>
+		<!-- Comment byAbhishek -->
 	</properties>
 
 	<dependencies>
@@ -30,21 +31,38 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
 		</dependency>
+<<<<<<< HEAD
+=======
+<dependency><!-- added new-->
+<dependency><!-- added new-->
+<!-- del new-->
+<!-- del new-->
+<!-- del new-->
+
+		<!-- web development,     Including Tomcat and spring-webmvc -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+>>>>>>> 27ee3c833bab223a7c66055122ddf5361d5f28b6
 		<!-- web development,     Including Tomcat and spring-webmvc -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 		<artifactId>spring-boot-starter-security</artifactId>
+		<artifactId>spring-boot-starter-security</artifactId><!--added line-->
 		<!-- Spring security -->
-<!-- Kishore message -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
-
-
-
+		<!-- Additional dummi changes added -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
