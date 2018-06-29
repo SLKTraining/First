@@ -93,7 +93,7 @@
 			<artifactId>jackson-core-asl</artifactId>
 			<version>1.9.13</version>
 		</dependency>
-
+<!-- MADE CHANGES HERE -->
 		<!-- attribute level json comparisons -->
 		<dependency>
 			<groupId>com.jayway.jsonpath</groupId>
