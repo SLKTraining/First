@@ -31,20 +31,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
 		</dependency>
-<<<<<<< HEAD
-=======
-<dependency><!-- added new-->
-<dependency><!-- added new-->
-<!-- del new-->
-<!-- del new-->
-<!-- del new-->
-
-		<!-- web development,     Including Tomcat and spring-webmvc -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
->>>>>>> 27ee3c833bab223a7c66055122ddf5361d5f28b6
 		<!-- web development,     Including Tomcat and spring-webmvc -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
