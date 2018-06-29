@@ -97,4 +97,9 @@ public class HotelController extends AbstractRestHandler {
         checkResourceFound(this.hotelService.getHotel(id));
         this.hotelService.deleteHotel(id);
     }
+	
+	public void testRet(){
+		String hello;
+		
+		hello = "Hi..";
 }
