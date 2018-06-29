@@ -107,7 +107,7 @@
 			<version>0.9.1</version>
 			<scope>test</scope>
 		</dependency>
-
+<!-- temp comment -->
 		<!-- integration with Swagger API doc generation http://goo.gl/J5FQDM -->
 		<dependency>
 			<groupId>io.springfox</groupId>
