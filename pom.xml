@@ -30,30 +30,12 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
 		</dependency>
-<<<<<<< HEAD
-<<<<<<< HEAD
-		
-=======
-<dependency><!-- added new-->
-=======
-		<dependency> <!--duplicated by              Abhishekdd -->
->>>>>>> 37e5072d57d26ef3584325bd6ae9d5e453ab8e8c
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-actuator</artifactId>
-		</dependency>
->>>>>>> 1e9a29d7f1279482e0ce405b17a3e6bdf68aa043
-
 		<!-- web development,     Including Tomcat and spring-webmvc -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-		<!-- web development,     Including Tomcat and spring-webmvc -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-
+		<artifactId>spring-boot-starter-security</artifactId>
 		<!-- Spring security -->
 <!-- Kishore message -->
 		<dependency>
