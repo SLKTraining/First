@@ -93,7 +93,7 @@
 			<artifactId>jackson-core-asl</artifactId>
 			<version>1.9.13</version>
 		</dependency>
-
+<!-- MADE CHANGES HERE -->
 		<!-- attribute level json comparisons -->
 		<dependency>
 			<groupId>com.jayway.jsonpath</groupId>
@@ -118,7 +118,7 @@
 			<artifactId>springfox-swagger-ui</artifactId>
 			<version>2.5.0</version>
 		</dependency>
-
+<!-- ADDED NEW -->
 		<dependency>
 			<groupId>org.hsqldb</groupId>
 			<artifactId>hsqldb</artifactId>
