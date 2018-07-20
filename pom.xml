@@ -49,7 +49,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-<<<<<<< HEAD
+
 <!-- artifactId>spring-boot-starter-security</artifactId -->
 		</dependency>
 		</dependency>
@@ -59,7 +59,7 @@
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		
->>>>>>> origin
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
