@@ -3,12 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.khoubyari</groupId>
-	<groupId>test1234</groupId>
 	<artifactId>test1234</artifactId>
-	<myname>Abhishek</myname>
 	<myname>NitinVirat</myname>
 	<myname>Mayuri</myname>
-	
+<!-- cleaning some code -->	
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
 	<packaging>war</packaging>
