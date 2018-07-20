@@ -4,6 +4,7 @@
 
 	<groupId>com.khoubyari</groupId>
 	<MyName>Harshad</MyName>
+	<Myname>Rutu</MyName>
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
 	<packaging>war</packaging>
