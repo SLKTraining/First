@@ -2,6 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
 
 	<groupId>edwqwqst1234</groupId>
 >>>>>>> e1c3e31fcc3c66efd78563ed444a4e9fba5d009b
@@ -15,11 +16,36 @@
 =======
 <<<<<<< HEAD
 =======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<groupId>com.khoubyari</groupId>
+	<myname>surbhi</myname>
+=======
+	<groupId>test1234</groupId>
+>>>>>>> e1c3e31fcc3c66efd78563ed444a4e9fba5d009b
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<artifactId>test1234</artifactId>
+=======
 	
->>>>>>> 93df988be8ec9fa7082677a1a618acea71764682
->>>>>>> 10746be0d25c9ef56110b8de1ed72f20bfdb0ce6
+=======
+	<groupId>com.khoubyari</groupId>
+	<groupId>test1234</groupId>
+	<artifactId>test1234</artifactId>
+	<myname>Abhishek</myname>
+	<myname>NitinVirat</myname>
+	<myname>Mayuri</myname>
+	<myname>Abhishek</myname>
+	<myname>NitinVirat</myname>
+	<myname>Mayuri</myname>
+	<myname>Abhishek</myname>
+	<myname>NitinVirat</myname>
+	<myname>Mayuri</myname>
+>>>>>>> 48cd6c7311f98035b3260ed6eb990827d0e18343
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
+	
 	<artifactId>spring-boot-rest-example</artifactId>
->>>>>>> 93df988be8ec9fa7082677a1a618acea71764682
 	<version>0.5.0</version>
 	<packaging>war</packaging>
 	<description>Example project demonstrating REST APIs implemented using Spring Boot, in-memory database, embedded Tomcat, Swagger, JsonPath, Hamcrest and MockMVC</description>
@@ -29,7 +55,15 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
 	</parent> 
+<<<<<<< HEAD
 	
+=======
+	<parent>
+		<myname> sssssssytwqfrfwq </myname>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.9.RELEASE</version>
+	</parent> 
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
@@ -66,13 +100,24 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-<<<<<<< HEAD
 <!-- artifactId>spring-boot-starter-security</artifactId -->
 		</dependency>
 		</dependency>
 		<!-- Additional dummi changes added -->
+<<<<<<< HEAD
 				
 >>>>>>> origin
+=======
+		<dependency>
+			<myName>Nausheen</myName>
+			<myName>Akansha</myName
+			<myName>Virat</myName>
+			<myname>Nitin</myName>
+			
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+		
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
