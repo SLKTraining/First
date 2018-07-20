@@ -3,13 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.khoubyari</groupId>
+	<groupId>test1234</groupId>
+	<artifactId>test1234</artifactId>
 	<myname>Abhishek</myname>
-	<groupId>com.khoubyari</groupId>
-	<myname>Abhishek</myname>
-	<groupId>com.khoubyari</groupId>
-	<myname>Abhishek</myname>
-	<groupId>com.khoubyari</groupId>
-	<myname>Abhishek</myname>
+	<myname>NitinVirat</myname>
+	<myname>Mayuri</myname>
+	
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
 	<packaging>war</packaging>
@@ -21,9 +20,16 @@
 		<version>1.5.9.RELEASE</version>
 	</parent> 
 	<parent>
+		<groupId>Swapnil</groupId>
+		<myname> sssssss </myname>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.9.RELEASE</version>
+	</parent> 
+	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
+	</parent> 
 	</parent> 
 	</parent> 
 
@@ -55,17 +61,18 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-<<<<<<< HEAD
 <!-- artifactId>spring-boot-starter-security</artifactId -->
 		</dependency>
 		</dependency>
 		<!-- Additional dummi changes added -->
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
+			<myName>Nausheen</myName>
+			<myName>Akansha</myName
+			<myName>Virat</myName>
+			<myname>Nitin</myName>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		
->>>>>>> origin
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
