@@ -54,7 +54,7 @@
 		</dependency>
 		<!-- Additional dummi changes added -->
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
+			<myName>Nausheen</myName>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		
