@@ -83,14 +83,7 @@
 			<myName>Akansha</myName
 			<myName>Virat</myName>
 			<myname>Nitin</myName>
-			<myName>Nausheen</myName>
-			<myName>Akansha</myName
-			<myName>Virat</myName>
-			<myname>Nitin</myName>
-			<myName>Nausheen</myName>
-			<myName>Akansha</myName
-			<myName>Virat</myName>
-			<myname>Nitin</myName>
+			
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		
