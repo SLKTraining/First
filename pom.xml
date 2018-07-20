@@ -3,31 +3,29 @@
 	<modelVersion>4.0.0</modelVersion>
 
 <<<<<<< HEAD
-<myname>Deeplaxmi</myname>
+=======
+
+=======
+<<<<<<< HEAD
+>>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
+
 =======
 <<<<<<< HEAD
 
-	<groupId>edwqwqst1234</groupId>
->>>>>>> e1c3e31fcc3c66efd78563ed444a4e9fba5d009b
-<<<<<<< HEAD
-<<<<<<< HEAD
-	<MyName>Harshad</MyName>
-	<Myname>akash</MyName>
-	<Myname>Masvekar</MyName>
-	<MyName>Harshad</MyName>
-	<Myname>akash</MyName>
-=======
-<<<<<<< HEAD
 =======
 =======
-<<<<<<< HEAD
-<<<<<<< HEAD
-	<groupId>com.khoubyari</groupId>
+
+>>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
 >>>>>>> 0930e121ce3489c8f85546d85805d56255952def
 	<myname>surbhi</myname>
 =======
 	<groupId>test1234</groupId>
+<<<<<<< HEAD
+>>>>>>> e1c3e31fcc3c66efd78563ed444a4e9fba5d009b
+
+=======
 	<artifactId>test1234</artifactId>
+>>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -70,7 +68,15 @@
 	
 =======
 	<parent>
+<<<<<<< HEAD
+<<<<<<< HEAD
+		
+=======
+		<myname> sssssss </myname>
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
+=======
 		<myname> sssssssytwqfrfwq </myname>
+>>>>>>> 0930e121ce3489c8f85546d85805d56255952def
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
 	</parent> 
@@ -127,6 +133,20 @@
 			<myName>Akansha</myName
 			<myName>Virat</myName>
 			<myname>Nitin</myName>
+<<<<<<< HEAD
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+=======
 			
 >>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
 			<artifactId>spring-boot-starter-security</artifactId>
