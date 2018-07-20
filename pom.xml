@@ -34,7 +34,11 @@
 		<version>1.5.9.RELEASE</version>
 	</parent> 
 	<parent>
+<<<<<<< HEAD
 		
+=======
+		<myname> sssssss </myname>
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
 	</parent> 
@@ -83,6 +87,7 @@
 			<myName>Akansha</myName
 			<myName>Virat</myName>
 			<myname>Nitin</myName>
+<<<<<<< HEAD
 			<myName>NausheenAkanshaViratNitin</myName>
 			<myName>NausheenAkanshaViratNitin</myName>
 			<myName>NausheenAkanshaViratNitin</myName>
@@ -95,6 +100,9 @@
 			<myName>NausheenAkanshaViratNitin</myName>
 			<myName>NausheenAkanshaViratNitin</myName>
 			<myName>NausheenAkanshaViratNitin</myName>
+=======
+			
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		
