@@ -14,6 +14,12 @@
 		<version>1.5.9.RELEASE</version>
 	</parent> 
 	<parent>
+		<groupId>Swapnil1113232</groupId>
+		<myname> Swapnil </myname>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.9.RELEASE</version>
+	</parent> 
+	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
