@@ -70,38 +70,6 @@
 	</parent> 
 	</parent> 
 
-	<properties>
-		<start-class>com.khoubyari.example.Application</start-class>
-	</properties>
-
-	<dependencies>
-
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-actuator</artifactId>
-		</dependency>
-<dependency><!-- added new-->
-<!-- del new-->
-<!-- del new-->
-<!-- del new-->
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-actuator</artifactId>
-		</dependency>
-
-		<!-- web development, including Tomcat and spring-webmvc -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-
-		<!-- Spring security -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-security</artifactId>
-<!-- artifactId>spring-boot-starter-security</artifactId -->
-		</dependency>
-		</dependency>
-		<!-- Additional dummi changes added -->
 <<<<<<< HEAD
 				
 >>>>>>> origin
@@ -114,20 +82,12 @@
 			<myName>Akansha</myName
 			<myName>Virat</myName>
 			<myname>Nitin</myName>
+			<myName>Nausheen</myName>
+			<myName>Akansha</myName
+			<myName>Virat</myName>
+			<myname>Nitin</myName>
 <<<<<<< HEAD
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-=======
+			
 			
 >>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
 			<artifactId>spring-boot-starter-security</artifactId>
