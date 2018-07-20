@@ -2,7 +2,34 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
+<myname>Deeplaxmi</myname>
+=======
+<<<<<<< HEAD
+
+	<groupId>edwqwqst1234</groupId>
+>>>>>>> e1c3e31fcc3c66efd78563ed444a4e9fba5d009b
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<MyName>Harshad</MyName>
+	<Myname>akash</MyName>
+	<Myname>Masvekar</MyName>
+	<MyName>Harshad</MyName>
+	<Myname>akash</MyName>
+=======
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
 	<groupId>com.khoubyari</groupId>
+>>>>>>> 0930e121ce3489c8f85546d85805d56255952def
+	<myname>surbhi</myname>
+=======
+	<groupId>test1234</groupId>
+	<artifactId>test1234</artifactId>
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 	<myname>SLK
 </myname>
@@ -14,6 +41,21 @@
 	<myname>NitinVirat</myname>
 >>>>>>> 93df988be8ec9fa7082677a1a618acea71764682
 >>>>>>> 10746be0d25c9ef56110b8de1ed72f20bfdb0ce6
+=======
+	<myname>Shubham</myname>
+	<myname>Ashwini</myname>
+	
+=======
+=======
+>>>>>>> f57bbf0f79bc1119ed14cf0850f4157f1b83b82d
+	
+=======
+	
+>>>>>>> 48cd6c7311f98035b3260ed6eb990827d0e18343
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
+	
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
+>>>>>>> 625c1149b4907b2624e4212ac05630f04679a0e2
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
 	<packaging>war</packaging>
@@ -24,10 +66,20 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
 	</parent> 
+<<<<<<< HEAD
+	
+=======
+	<parent>
+		<myname> sssssssytwqfrfwq </myname>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.9.RELEASE</version>
+	</parent> 
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
+	</parent> 
 	</parent> 
 	</parent> 
 
@@ -59,20 +111,28 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-<<<<<<< HEAD
 <!-- artifactId>spring-boot-starter-security</artifactId -->
 		</dependency>
 		</dependency>
 		<!-- Additional dummi changes added -->
+<<<<<<< HEAD
+				
+>>>>>>> origin
+=======
 		<dependency>
+<<<<<<< HEAD
+			<groupId>org.springframework.boot</groupId>
+=======
 			<myName>Nausheen</myName>
 			<myName>Akansha</myName
 			<myName>Virat</myName>
 			<myname>Nitin</myName>
+			
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		
->>>>>>> origin
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
