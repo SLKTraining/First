@@ -34,8 +34,7 @@
 		<version>1.5.9.RELEASE</version>
 	</parent> 
 	<parent>
-		<groupId>Swapnil</groupId>
-		<myname> sssssss </myname>
+		
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
 	</parent> 
@@ -84,6 +83,11 @@
 			<myName>Akansha</myName
 			<myName>Virat</myName>
 			<myname>Nitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
 			<myName>NausheenAkanshaViratNitin</myName>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
