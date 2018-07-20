@@ -3,6 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<groupId>com.khoubyari</groupId>
 	<myname>surbhi</myname>
 =======
@@ -13,17 +14,28 @@
 	<artifactId>test1234</artifactId>
 =======
 	
+=======
+	<groupId>com.khoubyari</groupId>
+	<groupId>test1234</groupId>
+	<artifactId>test1234</artifactId>
+	<myname>Abhishek</myname>
+	<myname>NitinVirat</myname>
+	<myname>Mayuri</myname>
+>>>>>>> 48cd6c7311f98035b3260ed6eb990827d0e18343
 	
->>>>>>> 93df988be8ec9fa7082677a1a618acea71764682
->>>>>>> 10746be0d25c9ef56110b8de1ed72f20bfdb0ce6
 	<artifactId>spring-boot-rest-example</artifactId>
->>>>>>> 93df988be8ec9fa7082677a1a618acea71764682
 	<version>0.5.0</version>
 	<packaging>war</packaging>
 	<description>Example project demonstrating REST APIs implemented using Spring Boot, in-memory database, embedded Tomcat, Swagger, JsonPath, Hamcrest and MockMVC</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.9.RELEASE</version>
+	</parent> 
+	<parent>
+		<groupId>Swapnil</groupId>
+		<myname> sssssss </myname>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
 	</parent> 
@@ -63,7 +75,6 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-<<<<<<< HEAD
 <!-- artifactId>spring-boot-starter-security</artifactId -->
 		</dependency>
 		</dependency>
@@ -76,7 +87,6 @@
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		
->>>>>>> origin
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
