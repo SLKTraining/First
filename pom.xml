@@ -2,10 +2,25 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
+
+	<groupId>MyId12345</groupId>
+	<myname>Akshaya123</myname>
+=======
 	<groupId>com.khoubyari</groupId>
+<<<<<<< HEAD
 	<myname>surbhi</myname>
 <<<<<<< HEAD
 	<myname>Dad</myname>
+=======
+
+	<artifactId>Akshaya_1</artifactId>
+=======
+	<myname>AkanshaChouhan</myname>
+	<myname>Shubham</myname>
+	<myname>Ashwini</myname>
+=======
+	
+>>>>>>> remotes/origin/Akshaya_1
 =======
 		<myname>kalyani</myname>
 		<myname>surbhi</myname>
@@ -13,6 +28,11 @@
 
 >>>>>>> 122300619f62edfb965132837caea032bddc4f37
 	<artifactId>spring-boot-rest-example</artifactId>
+<<<<<<< HEAD
+=======
+>>>>>>> 93df988be8ec9fa7082677a1a618acea71764682
+>>>>>>> 2f239b41b1c3ea5968cded492b84df95ea3d5862
+>>>>>>> remotes/origin/Akshaya_1
 	<version>0.5.0</version>
 	<packaging>war</packaging>
 	<description>Example project demonstrating REST APIs implemented using Spring Boot, in-memory database, embedded Tomcat, Swagger, JsonPath, Hamcrest and MockMVC</description>
