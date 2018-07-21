@@ -2,13 +2,47 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
 	<groupId>Chinmayi</groupId>
 	<groupId>test1234</groupId>
-	<artifactId>test1234</artifactId>
-	<myname>Abhishek</myname>
-	<myname>NitinVirat</myname>
-	<myname>Mayuri</myname>
+=======
+	<groupId>com.khoubyari</groupId>
+	<
+<<<<<<< HEAD
+	<myname>Dad</myname>
+=======
 	
+<<<<<<< HEAD
+>>>>>>> 122300619f62edfb965132837caea032bddc4f37
+=======
+	
+=======
+=======
+>>>>>>> f57bbf0f79bc1119ed14cf0850f4157f1b83b82d
+	
+=======
+	
+>>>>>>> 48cd6c7311f98035b3260ed6eb990827d0e18343
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
+	
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
+=======
+>>>>>>> 6d21e9ee5e77d1c38e46dbb699ef5ebe53e1f8f5
+	<artifactId>test1234</artifactId>
+>>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
+
+	
+=======
+=======
+>>>>>>> f57bbf0f79bc1119ed14cf0850f4157f1b83b82d
+	
+=======
+	
+>>>>>>> 48cd6c7311f98035b3260ed6eb990827d0e18343
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
+	
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
+>>>>>>> Akansha_Testing1
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
 	<packaging>war</packaging>
@@ -19,12 +53,23 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
 	</parent> 
+<<<<<<< HEAD
+	
+=======
 	<parent>
-		<groupId>Swapnil</groupId>
-		<myname> sssssss </myname>
+<<<<<<< HEAD
+<<<<<<< HEAD
+		
+=======
+		<myname>GGGGGGGGG</myname>
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
+=======
+		<myname> sssssssytwqfrfwq </myname>
+>>>>>>> 0930e121ce3489c8f85546d85805d56255952def
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
 	</parent> 
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
@@ -65,14 +110,41 @@
 		</dependency>
 		</dependency>
 		<!-- Additional dummi changes added -->
+<<<<<<< HEAD
+				
+>>>>>>> origin
+=======
 		<dependency>
+<<<<<<< HEAD
+			<groupId>org.springframework.boot</groupId>
+=======
+			<myName>Hum 4</myName>
 			<myName>Nausheen</myName>
 			<myName>Akansha</myName
 			<myName>Virat</myName>
 			<myname>Nitin</myName>
+<<<<<<< HEAD
+			<myName>NausheenAkanshaViratNitin</myName>
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			
+=======
+=======
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+>>>>>>> Akansha_Testing1
+		
+>>>>>>> master
+=======
+			
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
@@ -100,28 +172,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
-		</dependency>
-
-		<dependency>
-			<groupId>org.codehaus.jackson</groupId>
-			<artifactId>jackson-core-asl</artifactId>
-			<version>1.9.13</version>
-		</dependency>
-
-		<!-- attribute level json comparisons -->
-		<dependency>
-			<groupId>com.jayway.jsonpath</groupId>
-			<artifactId>json-path</artifactId>
-			<version>2.4.0</version>
-		</dependency>
-		<dependency>
-			<groupId>com.jayway.jsonpath</groupId>
-			<artifactId>json-path-assert</artifactId>
-			<version>0.9.1</version>
-			<scope>test</scope>
-		</dependency>
-<!-- temp comment -->
+		
 		<!-- integration with Swagger API doc generation http://goo.gl/J5FQDM -->
 		<dependency>
 			<groupId>io.springfox</groupId>
@@ -135,6 +186,10 @@
 		</dependency>
 
 		<dependency>
+		<myname>Akansha</myname>
+		<myname>NAusheen</myname>
+		<myname>Nitin Virat</myname>
+		<myname>Virat Nitin</myname>
 			<groupId>org.hsqldb</groupId>
 			<artifactId>hsqldb</artifactId>
 			<scope>runtime</scope>
