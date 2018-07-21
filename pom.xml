@@ -3,33 +3,34 @@
 	<modelVersion>4.0.0</modelVersion>
 
 <<<<<<< HEAD
-=======
-
-=======
 <<<<<<< HEAD
->>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
-
-=======
 <<<<<<< HEAD
-
-=======
-=======
-
->>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
->>>>>>> 0930e121ce3489c8f85546d85805d56255952def
+	<groupId>com.khoubyari</groupId>
 	<myname>surbhi</myname>
+		<myname>Shubham Raina</myname>
 =======
-	<groupId>test1234</groupId>
+>>>>>>> cbfc944a57907cc2c73c424cff5de93cb73ef14c
+=======
+
 <<<<<<< HEAD
+	<groupId>Mayuri.Sarpotdar Test Engineer2.0</groupId>
+>>>>>>> e1c3e31fcc3c66efd78563ed444a4e9fba5d009b
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+	<groupId>com.khoubyari</groupId>
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
+
+
 >>>>>>> e1c3e31fcc3c66efd78563ed444a4e9fba5d009b
 
 =======
 	<artifactId>test1234</artifactId>
 >>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
-=======
-<<<<<<< HEAD
-	<myname>Shubham</myname>
-	<myname>Ashwini</myname>
+
 	
 =======
 =======
@@ -59,7 +60,7 @@
 <<<<<<< HEAD
 		
 =======
-		<myname> sssssss </myname>
+		<myname>GGGGGGGGG</myname>
 >>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
 =======
 		<myname> sssssssytwqfrfwq </myname>
@@ -116,35 +117,19 @@
 <<<<<<< HEAD
 			<groupId>org.springframework.boot</groupId>
 =======
+			<myName>Hum 4</myName>
 			<myName>Nausheen</myName>
 			<myName>Akansha</myName
 			<myName>Virat</myName>
 			<myname>Nitin</myName>
 <<<<<<< HEAD
 			<myName>NausheenAkanshaViratNitin</myName>
+<<<<<<< HEAD
 			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
+			
+=======
+		
+>>>>>>> master
 =======
 			
 >>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
