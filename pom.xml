@@ -4,10 +4,14 @@
 
 	<groupId>com.khoubyari</groupId>
 	<myname>surbhi</myname>
+<<<<<<< HEAD
+	<myname>Dad</myname>
+=======
 		<myname>surbhi.shukla</myname>
 		<myname>surbhi.shukla2@slkgroup.com</myname>
 		<myname>Shubham Raina</myname>
 
+>>>>>>> 122300619f62edfb965132837caea032bddc4f37
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
 	<packaging>war</packaging>
