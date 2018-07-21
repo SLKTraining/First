@@ -2,45 +2,16 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-<<<<<<< HEAD
-=======
-
-=======
-<<<<<<< HEAD
->>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
-
-=======
-<<<<<<< HEAD
-
-=======
-=======
-
->>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
->>>>>>> 0930e121ce3489c8f85546d85805d56255952def
+	<groupId>com.khoubyari</groupId>
 	<myname>surbhi</myname>
-=======
-	<groupId>test1234</groupId>
 <<<<<<< HEAD
->>>>>>> e1c3e31fcc3c66efd78563ed444a4e9fba5d009b
+	<myname>Dad</myname>
+=======
+		<myname>surbhi.shukla</myname>
+		<myname>surbhi.shukla2@slkgroup.com</myname>
+		<myname>Shubham Raina</myname>
 
-=======
-	<artifactId>test1234</artifactId>
->>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
-=======
-<<<<<<< HEAD
-	<myname>Shubham</myname>
-	<myname>Ashwini</myname>
-	
-=======
-=======
->>>>>>> f57bbf0f79bc1119ed14cf0850f4157f1b83b82d
-	
-=======
-	
->>>>>>> 48cd6c7311f98035b3260ed6eb990827d0e18343
->>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
-	
->>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
+>>>>>>> 122300619f62edfb965132837caea032bddc4f37
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
 	<packaging>war</packaging>
@@ -59,7 +30,7 @@
 <<<<<<< HEAD
 		
 =======
-		<myname> sssssss </myname>
+		<myname>GGGGGGGGG</myname>
 >>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
 =======
 		<myname> sssssssytwqfrfwq </myname>
@@ -125,12 +96,23 @@
 <<<<<<< HEAD
 			<myName>Hum5</myName>
 			<myName>NausheenAkanshaViratNitin</myName>
+<<<<<<< HEAD
 			<myName>NausheenAkanshaViratNitinMayuri</myName>
 <<<<<<< Updated upstream
 			<myName>Hum 5 NausheenAkanshaViratNitinMayuri</myName>
 =======
 			
 >>>>>>> Stashed changes
+=======
+<<<<<<< HEAD
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+			
+=======
+		
+>>>>>>> master
+>>>>>>> master
 =======
 			
 >>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
