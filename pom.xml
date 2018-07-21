@@ -6,13 +6,9 @@
 <myname>xyz</myname>
 <myname>xyz</myname>
 <myname>xyz</myname>
-<<<<<<< Updated upstream
-<myname>123</myname>
-<myname>123</myname>
-=======
-<myname>abc</myname>
-<myname>abc</myname>
->>>>>>> Stashed changes
+
+
+
 
 	<groupId>com.khoubyari</groupId>
 <<<<<<< HEAD
