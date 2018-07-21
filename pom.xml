@@ -3,15 +3,41 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.khoubyari</groupId>
-	<myname>surbhi</myname>
+	<
 <<<<<<< HEAD
 	<myname>Dad</myname>
 =======
-		<myname>surbhi.shukla</myname>
-		<myname>surbhi.shukla2@slkgroup.com</myname>
-		<myname>Shubham Raina</myname>
-
+	
+<<<<<<< HEAD
 >>>>>>> 122300619f62edfb965132837caea032bddc4f37
+=======
+	
+=======
+=======
+>>>>>>> f57bbf0f79bc1119ed14cf0850f4157f1b83b82d
+	
+=======
+	
+>>>>>>> 48cd6c7311f98035b3260ed6eb990827d0e18343
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
+	
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
+=======
+	<artifactId>test1234</artifactId>
+>>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
+
+	
+=======
+=======
+>>>>>>> f57bbf0f79bc1119ed14cf0850f4157f1b83b82d
+	
+=======
+	
+>>>>>>> 48cd6c7311f98035b3260ed6eb990827d0e18343
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
+	
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
+>>>>>>> Akansha_Testing1
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
 	<packaging>war</packaging>
@@ -95,9 +121,14 @@
 <<<<<<< HEAD
 			<myName>NausheenAkanshaViratNitin</myName>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<myName>NausheenAkanshaViratNitin</myName>
 			
 =======
+=======
+			<myName>NausheenAkanshaViratNitin</myName>
+			<myName>NausheenAkanshaViratNitin</myName>
+>>>>>>> Akansha_Testing1
 		
 >>>>>>> master
 =======
@@ -148,6 +179,10 @@
 		</dependency>
 
 		<dependency>
+		<myname>Akansha</myname>
+		<myname>NAusheen</myname>
+		<myname>Nitin Virat</myname>
+		<myname>Virat Nitin</myname>
 			<groupId>org.hsqldb</groupId>
 			<artifactId>hsqldb</artifactId>
 			<scope>runtime</scope>
