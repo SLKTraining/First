@@ -1,70 +1,23 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-
+	<version>0.5.0.1   789</version>
 	<groupId>com.khoubyari</groupId>
-	<
-<<<<<<< HEAD
-	<myname>Dad</myname>
-=======
-	
-<<<<<<< HEAD
->>>>>>> 122300619f62edfb965132837caea032bddc4f37
-=======
-	
-=======
-=======
->>>>>>> f57bbf0f79bc1119ed14cf0850f4157f1b83b82d
-	
-=======
-	
->>>>>>> 48cd6c7311f98035b3260ed6eb990827d0e18343
->>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
-	
->>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
-=======
 	<artifactId>test1234</artifactId>
->>>>>>> 1bba383f17b09eded8371e74c673746ad5b3eb84
-
-	
-=======
-=======
->>>>>>> f57bbf0f79bc1119ed14cf0850f4157f1b83b82d
-	
-=======
-	
->>>>>>> 48cd6c7311f98035b3260ed6eb990827d0e18343
->>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
-	
->>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
->>>>>>> Akansha_Testing1
-	<artifactId>spring-boot-rest-example</artifactId>
-	<version>0.5.0</version>
 	<packaging>war</packaging>
 	<description>Example project demonstrating REST APIs implemented using Spring Boot, in-memory database, embedded Tomcat, Swagger, JsonPath, Hamcrest and MockMVC</description>
 
-	<parent>
+	<parent>   
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
 	</parent> 
-<<<<<<< HEAD
-	
-=======
 	<parent>
-<<<<<<< HEAD
-<<<<<<< HEAD
-		
-=======
-		<myname>GGGGGGGGG</myname>
->>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
-=======
-		<myname> sssssssytwqfrfwq </myname>
->>>>>>> 0930e121ce3489c8f85546d85805d56255952def
+		<groupId>Swapnil</groupId>
+		<myname> sssssss </myname>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
 	</parent> 
->>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
@@ -73,6 +26,7 @@
 	</parent> 
 	</parent> 
 
+  
 	<properties>
 		<start-class>com.khoubyari.example.Application</start-class>
 	</properties>
@@ -105,41 +59,7 @@
 		</dependency>
 		</dependency>
 		<!-- Additional dummi changes added -->
-<<<<<<< HEAD
-				
->>>>>>> origin
-=======
-		<dependency>
-<<<<<<< HEAD
-			<groupId>org.springframework.boot</groupId>
-=======
-			<myName>Hum 4</myName>
-			<myName>Nausheen</myName>
-			<myName>Akansha</myName
-			<myName>Virat</myName>
-			<myname>Nitin</myName>
-<<<<<<< HEAD
-			<myName>NausheenAkanshaViratNitin</myName>
-<<<<<<< HEAD
-<<<<<<< HEAD
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
-			
-=======
-=======
-			<myName>NausheenAkanshaViratNitin</myName>
-			<myName>NausheenAkanshaViratNitin</myName>
->>>>>>> Akansha_Testing1
-		
->>>>>>> master
-=======
-			
->>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
-			<artifactId>spring-boot-starter-security</artifactId>
-		</dependency>
-		
->>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
+ 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
