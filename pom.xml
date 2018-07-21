@@ -2,29 +2,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-<<<<<<< HEAD
-<myname>Deeplaxmi</myname>
-=======
-<<<<<<< HEAD
 
-	<groupId>edwqwqst1234</groupId>
->>>>>>> e1c3e31fcc3c66efd78563ed444a4e9fba5d009b
+	<groupId>edwqwqst1234</groupId>	
 
-
-<<<<<<< HEAD
-	<groupId>com.khoubyari</groupId>
->>>>>>> 0930e121ce3489c8f85546d85805d56255952def
-	<myname>surbhi</myname>
-=======
-	<groupId>test1234</groupId>
-	<artifactId>test1234</artifactId>
-=======
-	
-
->>>>>>> 48cd6c7311f98035b3260ed6eb990827d0e18343
->>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
-	
->>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
 	<packaging>war</packaging>
