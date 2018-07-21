@@ -4,7 +4,14 @@
 
 	<groupId>com.khoubyari</groupId>
 	<myname>surbhi</myname>
+<<<<<<< HEAD
 	<myname>Dad</myname>
+=======
+		<myname>surbhi.shukla</myname>
+		<myname>surbhi.shukla2@slkgroup.com</myname>
+		<myname>Shubham Raina</myname>
+
+>>>>>>> 122300619f62edfb965132837caea032bddc4f37
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
 	<packaging>war</packaging>
@@ -15,10 +22,28 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
 	</parent> 
+<<<<<<< HEAD
+	
+=======
+	<parent>
+<<<<<<< HEAD
+<<<<<<< HEAD
+		
+=======
+		<myname>GGGGGGGGG</myname>
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
+=======
+		<myname> sssssssytwqfrfwq </myname>
+>>>>>>> 0930e121ce3489c8f85546d85805d56255952def
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>1.5.9.RELEASE</version>
+	</parent> 
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.9.RELEASE</version>
+	</parent> 
 	</parent> 
 	</parent> 
 
@@ -50,17 +75,38 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-<<<<<<< HEAD
 <!-- artifactId>spring-boot-starter-security</artifactId -->
 		</dependency>
 		</dependency>
 		<!-- Additional dummi changes added -->
+<<<<<<< HEAD
+				
+>>>>>>> origin
+=======
 		<dependency>
+<<<<<<< HEAD
 			<groupId>org.springframework.boot</groupId>
+=======
+			<myName>Hum 4</myName>
+			<myName>Nausheen</myName>
+			<myName>Akansha</myName
+			<myName>Virat</myName>
+			<myname>Nitin</myName>
+<<<<<<< HEAD
+			<myName>NausheenAkanshaViratNitin</myName>
+<<<<<<< HEAD
+			<myName>NausheenAkanshaViratNitin</myName>
+			
+=======
+		
+>>>>>>> master
+=======
+			
+>>>>>>> ddb96c86b58e561afc7894a449892c07d2eef449
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 		
->>>>>>> origin
+>>>>>>> 114d48ee606dc9fddc041dbb64b4da9723dec1a4
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
