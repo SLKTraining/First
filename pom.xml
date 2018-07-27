@@ -4,15 +4,20 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.khoubyari</groupId>
-<<<<<<< HEAD
-<<<<<<< HEAD
-	<artifactId>Some-OtherContent-spring-boot-rest-example-Test</artifactId>
+
+
+	<artifactId>Git TEst_101</artifactId>
 	<version>0.5.0</version>
+ 
 	<artifactId>The-new-spring-boot-rest-examplewww</artifactId>
+
+
+	<artifactId>The-new-spring-boot-rest-example</artifactId>
 	<version>0.5.1</version>
-	<artifactId>Some-OtherContent----More Contentspring-boot-rest-example</artifactId>
-	<version>0.5.0</version>
->>>>>>> c9deb6d62bcdd319f50ae35f554860761eaa6e15
+
+	<artifactId>The-new-spring-boot-rest-example</artifactId>
+
+	<version>0.5.1</version>
 	<packaging>war</packaging>
 	<description>Example project demonstrating REST APIs implemented using Spring Boot, in-memory database, embedded Tomcat, Swagger, JsonPath, Hamcrest and MockMVC</description>
 
