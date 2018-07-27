@@ -5,7 +5,7 @@
 
 	<groupId>com.khoubyari</groupId>
 
-
+	<!-- comments from Venkat-->
 	<artifactId>Git TEst_101</artifactId>
 <<<<<<< HEAD
 	<artifactId>Some-OtherContent-spring-boot-rest-example-Test</artifactId>
