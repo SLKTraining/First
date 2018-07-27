@@ -36,7 +36,7 @@
 	<dependencies>
 
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
+			<groupId>REGIONSorg.springframework.boot</groupId>
 			<groupId>slk nucluesorg.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
 		</dependency>
