@@ -10,7 +10,7 @@
 =======
 	<artifactId>The-new-spring-boot-rest-example</artifactId>
 	<version>0.5.1</version>
->>>>>>> 5dd108ea4e2fc4d24e40379a9a61b9254bf595d3
+
 	<packaging>war</packaging>
 	<description>Example project demonstrating REST APIs implemented using Spring Boot, in-memory database, embedded Tomcat, Swagger, JsonPath, Hamcrest and MockMVC</description>
 
