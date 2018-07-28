@@ -32,8 +32,12 @@
 
 	<properties>
 		<start-class>www.slkgroup.com.khoubyari.example.Application</start-class>
-	</properties>
+			</properties>
 
+			<properties>
+		<start-class>www.slkgroup.com.pasupula.sample.Application</start-class>
+	
+			
 	<dependencies>
 
 		<dependency>
