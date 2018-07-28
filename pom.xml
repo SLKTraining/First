@@ -31,6 +31,7 @@
 
 	<properties>
 		<start-class>www.slkgroup.com.khoubyari.example.Application</start-class>
+		<start-class>khoubyari.example.Application</start-class>
 	</properties>
 
 	<dependencies>
